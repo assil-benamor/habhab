@@ -1,5 +1,5 @@
 # Ignore all files and directories
 *.*
 # Un-ignore AppFiles.zip
-!AppFiles2.zip
+!AppFiles.zip
 !.gitignore
